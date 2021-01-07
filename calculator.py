@@ -1,5 +1,5 @@
 import sys
-print("\nWelcome to my calculator project on python\n\nprogrammed by @ysr075 on GitHub");
+print("\nWelcome to my calculator project on python\n\nprogrammed by @ysr075 on GitHub")
 while(True):
     choose = input("\n1.add / 2.substract / 3.multiply / 4.divide: ")
     if choose == '1':
